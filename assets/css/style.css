@@ -12,6 +12,10 @@ hr{
     border-width: 2px;
 }
 
+.navbar {
+    background-color: #2ea4ae;
+}
+
 h1 {
     font-size: 34px !important;
 }
